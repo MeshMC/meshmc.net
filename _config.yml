@@ -3,7 +3,7 @@ author: Tigermouthbear & Makrennel
 #email: example@example.com
 description: >-
   Mesh is a cross-version minecraft mod development platform for Forge and Fabric.
-  It is compatible with Kotlin out of the box, and contains wide varity of other 
+  It is compatible with Kotlin out of the box, and contains wide variety of other 
   APIs and standard features.
 baseurl: ""
 url: "https://meshmc.net"
